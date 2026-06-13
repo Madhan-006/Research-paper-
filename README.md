@@ -114,8 +114,8 @@ The input dataset should follow this format:
 Artificial Intelligence and Data Science Student
 Passionate about Machine Learning, Deep Learning, and AI-driven Optimization Techniques.
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 GitHub: https://github.com/your-username
+📧 Email: [maddyfx030@gmail.com](mailto:your-email@example.com)
+🔗 GitHub: https://madhan-06.github.io/Reseach-paper-
 
 ---
 
