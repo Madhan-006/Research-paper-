@@ -115,7 +115,7 @@ Artificial Intelligence and Data Science Student
 Passionate about Machine Learning, Deep Learning, and AI-driven Optimization Techniques.
 
 📧 Email: [maddyfx030@gmail.com](mailto:your-email@example.com)
-🔗 GitHub: https://madhan-06.github.io/Reseach-paper-
+🔗 GitHub: https://github.com/Madhan-006/Research-paper-
 
 ---
 
